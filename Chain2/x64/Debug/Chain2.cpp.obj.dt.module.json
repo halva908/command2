@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Chain2\\x64\\Debug\\Chain2.obj",
+            "outputs": [
+                "Chain2\\x64\\Debug\\Chain2.cpp.obj.dt.module.json",
+                "Chain2\\x64\\Debug\\Chain2.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

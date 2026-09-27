@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\Chain2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7097C49-62FD-4D12-9242-E2B69DB35506}|Chain2.vcxproj|C:\\dev\\Chain2\\Chain2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7097C49-62FD-4D12-9242-E2B69DB35506}|Chain2.vcxproj|solutionrelative:Chain2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chain2.cpp",
+              "DocumentMoniker": "C:\\dev\\Chain2\\Chain2.cpp",
+              "RelativeDocumentMoniker": "Chain2.cpp",
+              "ToolTip": "C:\\dev\\Chain2\\Chain2.cpp",
+              "RelativeToolTip": "Chain2.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-24T17:09:17.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
